@@ -2,7 +2,6 @@
 // eg nums=[3,1,0] N=3  and Ans = 2
 
 const findMissing = (arr) => {
- debugger
   let i=0
   while(i< arr.length){
     const correctIndex = arr[i]
