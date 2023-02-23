@@ -1,5 +1,5 @@
 const findAllDuplicates = (arr) => {
-  debugger
+  
   let i = 0
   while(i < arr.length){
     const correct = arr[i] - 1
